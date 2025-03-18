@@ -21,7 +21,6 @@ Desenvolver um aplicativo de chat para simular a troca de mensagens entre dois u
 - `Funcionalidade 6`: Exibir a foto do perfil do remetente junto à mensagem.
 - `Funcionalidade 7`: Possibilidade de alternar entre o remetente de forma fácil e rápida.
 
-<img src="https://user-images.githubusercontent.com/96504657/185512784-cd349ac6-a7d0-496f-b4fe-74326933823f.gif" width="25%" height="25%"/>
 
 ## :scroll: Características
 
