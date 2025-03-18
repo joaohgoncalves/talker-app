@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "agenda",
-    "slug": "agenda",
+    "name": "talker-app",
+    "slug": "talker-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
